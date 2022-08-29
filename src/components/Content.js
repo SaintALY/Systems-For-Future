@@ -17,6 +17,10 @@ function Content () {
                     <p>Wir wollen nichts weniger als die<br /> große Transformation und den dazu<br /> nötigen Mindshift ermöglichen.</p>
                 </section>
 
+                <section className="hero--ger">
+                    <h2>Wer sind wir?</h2>
+                </section>
+
                 <section className="commandments">
                     <p>Wir denken und handeln systemisch</p>
                     <p>Wir genießen Komplexität</p>
@@ -31,7 +35,7 @@ function Content () {
                     <p>Komm, wir packen's zusammen an!</p>
                 </section>
 
-                <section className="call-action">
+                <section className="hero--ger">
                     <h3>Mitmachen</h3>
                 </section>
             </div>
@@ -48,6 +52,10 @@ function Content () {
                     <p>We want nothing less than<br /> unleashing the necessary mindshift<br /> for the great transformation.</p>
                 </section>
 
+                <section className="hero--eng">
+                    <h2>Who are we?</h2>
+                </section>
+
                 <section className="commandments">
                     <p>We think and act systemically</p>
                     <p>We enjoy complexity</p>
@@ -62,7 +70,7 @@ function Content () {
                     <p>Come on, let's do it together!</p>
                 </section>
 
-                <section className="call-action">
+                <section className="hero--eng">
                     <h3>Participate</h3>
                 </section>
             </div>

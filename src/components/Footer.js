@@ -1,15 +1,16 @@
 import React from "react";
+import './Footer.css';
 
 function Footer() {
   return (
     <footer>
-      <div>
-        Join us on slack: systemsforfuture.slack.com
-        Next Meeting: 02. September 2022, 2pm – 4 pm
-        Instagram
+      <div className="footer-top">
+        <section>Slack Channel: systemsforfuture.slack.com</section>
+        <section>Next Meeting: 02.09.2022, 2pm - 4pm</section>
+        <section>Instagram: https://www.instagram.com/systemsforfuture/</section>
       </div>
-      <div>
-        Systems for Future is part of Creatives for Future. Established 2022.
+      <div className="footer-bottom">
+        Established 2022. Systems for Future is part of Creatives for Future
       </div>
     </footer>
   );
