@@ -20,23 +20,31 @@
 .hero--ger {
     font-style: normal;
     font-weight: 800;
-    font-size: 20px;
-    line-height: 26px;
+    font-size: 1.3em;
+    line-height: 1em;
     color: #161F75;
+}
+
+.highlight-ger {
+    background-color: #1FFF00;
+}
+
+.highlight-eng {
+    background-color: #161F75;
 }
 
 .hero--eng {
     font-style: normal;
     font-weight: 800;
-    font-size: 20px;
-    line-height: 26px;
+    font-size: 1.3em;
+    line-height: 1em;
     color: #1FFF00;
 }
 
 .context {
     font-style: normal;
     font-weight: 500;
-    font-size: 12px;
+    font-size: 0.9em;
     line-height: 16px;
     color: #161F75;
 }
@@ -44,7 +52,7 @@
 .commandments {
     font-style: normal;
     font-weight: 500;
-    font-size: 10px;
+    font-size: 0.7em;
     line-height: 13px;
     color: #161F75;
 }

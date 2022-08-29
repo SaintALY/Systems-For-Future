@@ -6,9 +6,9 @@ function Content () {
         <div className="content">
             <div className="german">
                 <section className="hero--ger">
-                    <h1>Wir wollen</h1>
-                    <h1>zukunftsfähige</h1>
-                    <h1>Systeme</h1>
+                    <h1><span className="highlight-ger">Wir wollen</span></h1>
+                    <h1><span className="highlight-ger">zukunftsfähige</span></h1>
+                    <h1><span className="highlight-ger">Systeme</span></h1>
                 </section>
 
                 <section className="context">
@@ -18,7 +18,7 @@ function Content () {
                 </section>
 
                 <section className="hero--ger">
-                    <h2>Wer sind wir?</h2>
+                    <h2><span className="highlight-ger">Wer sind wir?</span></h2>
                 </section>
 
                 <section className="commandments">
@@ -36,14 +36,14 @@ function Content () {
                 </section>
 
                 <section className="hero--ger">
-                    <h3>Mitmachen</h3>
+                    <h2><span className="highlight-ger">Mitmachen</span></h2>
                 </section>
             </div>
             <div className="english">
                 <section className="hero--eng">
-                    <h1>We want</h1>
-                    <h1>future-proof</h1>
-                    <h1>systems</h1>
+                    <h1><span className="highlight-eng">We want</span></h1>
+                    <h1><span className="highlight-eng">future-proof</span></h1>
+                    <h1><span className="highlight-eng">systems</span></h1>
                 </section>
 
                 <section className="context">
@@ -53,7 +53,7 @@ function Content () {
                 </section>
 
                 <section className="hero--eng">
-                    <h2>Who are we?</h2>
+                    <h2><span className="highlight-eng">Who are we?</span></h2>
                 </section>
 
                 <section className="commandments">
@@ -71,7 +71,7 @@ function Content () {
                 </section>
 
                 <section className="hero--eng">
-                    <h3>Participate</h3>
+                    <h2><span className="highlight-eng">Participate</span></h2>
                 </section>
             </div>
         </div>
