@@ -1,0 +1,16 @@
+.footer-top {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 0.8em;
+    line-height: 1.8em;
+    color: #161F75;
+    padding-bottom: 1.5em;
+}
+
+.footer-bottom {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 0.7em;
+    line-height: 12px;
+    color: #161F75;
+}

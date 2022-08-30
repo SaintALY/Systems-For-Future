@@ -6,15 +6,19 @@ function Content () {
         <div className="content">
             <div className="german">
                 <section className="hero--ger">
-                    <h1>Wir wollen</h1>
-                    <h1>zukunftsfähige</h1>
-                    <h1>Systeme</h1>
+                    <h1><span className="highlight-ger">Wir wollen</span></h1>
+                    <h1><span className="highlight-ger">zukunftsfähige</span></h1>
+                    <h1><span className="highlight-ger">Systeme</span></h1>
                 </section>
 
                 <section className="context">
                     <p>Die Zeit ist reif<br /> für gezielte Aktionen,<br /> Ideen und Initiativen, um<br /> die Systeme positiv zu aktivieren.</p>
                     <p>Wir disruptieren mit Humor,<br /> Kreativität, Positivität, Spaß,<br /> Innovationsgeist und immer gewaltfrei.</p>
                     <p>Wir wollen nichts weniger als die<br /> große Transformation und den dazu<br /> nötigen Mindshift ermöglichen.</p>
+                </section>
+
+                <section className="hero--ger">
+                    <h2><span className="highlight-ger">Wer sind wir?</span></h2>
                 </section>
 
                 <section className="commandments">
@@ -31,21 +35,25 @@ function Content () {
                     <p>Komm, wir packen's zusammen an!</p>
                 </section>
 
-                <section className="call-action">
-                    <h3>Mitmachen</h3>
+                <section className="hero--ger">
+                    <h2><span className="highlight-ger">Mitmachen</span></h2>
                 </section>
             </div>
             <div className="english">
                 <section className="hero--eng">
-                    <h1>We want</h1>
-                    <h1>future-proof</h1>
-                    <h1>systems</h1>
+                    <h1><span className="highlight-eng">We want</span></h1>
+                    <h1><span className="highlight-eng">future-proof</span></h1>
+                    <h1><span className="highlight-eng">systems</span></h1>
                 </section>
 
                 <section className="context">
                     <p>The time is ripe for<br /> pointed action, ideas and<br /> initiatives, to positively<br /> activate our systems.</p>
                     <p>We disrupt with the humour,<br /> creativity, positivity, innovation<br /> and always non-violent.</p>
                     <p>We want nothing less than<br /> unleashing the necessary mindshift<br /> for the great transformation.</p>
+                </section>
+
+                <section className="hero--eng">
+                    <h2><span className="highlight-eng">Who are we?</span></h2>
                 </section>
 
                 <section className="commandments">
@@ -62,8 +70,8 @@ function Content () {
                     <p>Come on, let's do it together!</p>
                 </section>
 
-                <section className="call-action">
-                    <h3>Participate</h3>
+                <section className="hero--eng">
+                    <h2><span className="highlight-eng">Participate</span></h2>
                 </section>
             </div>
         </div>
