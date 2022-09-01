@@ -1,4 +1,4 @@
-.content {
+.commandments--box {
     display: flex;
     justify-content: center;
     margin: 0.5em;
@@ -24,6 +24,7 @@
     width:50%;
 }
 
+
 .hero--ger {
     font-style: normal;
     font-weight: 800;
@@ -46,18 +47,25 @@
     color: #1FFF00;
 }
 
-.context {
-    font-style: normal;
-    font-weight: 500;
-    font-size: 0.9em;
-    line-height: 1em;
-    color: #161F75;
-}
-
 .commandments {
     font-style: normal;
     font-weight: 500;
-    font-size: 0.7em;
-    line-height: 13px;
+    font-size: 0.8em;
+    line-height: 0.8em;
+    color: #161F75;
+}
+
+.number {
+    width: 1em;
+    height: 1em;
+    background: #1FFF00;
+
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 1.1em;
+    line-height: 1.7px;
+    text-align: center;
+
     color: #161F75;
 }
