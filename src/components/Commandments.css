@@ -30,6 +30,7 @@
     font-weight: 800;
     line-height: 1em;
     color: #161F75;
+    white-space: nowrap;
 }
 
 .highlight-ger {
@@ -45,6 +46,7 @@
     font-weight: 800;
     line-height: 1em;
     color: #1FFF00;
+    white-space: nowrap;
 }
 
 .commandments {
@@ -52,20 +54,5 @@
     font-weight: 500;
     font-size: 0.9em;
     line-height: 1.3em;
-    color: #161F75;
-}
-
-.number {
-    width: 1em;
-    height: 1em;
-    background: #1FFF00;
-
-    font-family: 'Roboto Slab';
-    font-style: normal;
-    font-weight: 800;
-    font-size: 1.1em;
-    line-height: 1.7px;
-    text-align: center;
-
     color: #161F75;
 }

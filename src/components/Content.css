@@ -29,6 +29,7 @@
     font-weight: 800;
     line-height: 1em;
     color: #161F75;
+    white-space: nowrap;
 }
 
 .highlight-ger {
@@ -44,6 +45,7 @@
     font-weight: 800;
     line-height: 1em;
     color: #1FFF00;
+    white-space: nowrap;
 }
 
 .context {
