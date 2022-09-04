@@ -11,7 +11,7 @@
     padding-right: 1em;
     box-sizing: border-box;
     float: right;
-    width: 50%;
+    max-width: 300px;
 }
 
 .english {
@@ -21,7 +21,7 @@
     padding-left: 1em;
     box-sizing: border-box;
     float: left;
-    width:50%;
+    max-width: 300px;;
 }
 
 
@@ -50,8 +50,8 @@
 .commandments {
     font-style: normal;
     font-weight: 500;
-    font-size: 0.8em;
-    line-height: 0.8em;
+    font-size: 0.9em;
+    line-height: 1.3em;
     color: #161F75;
 }
 
