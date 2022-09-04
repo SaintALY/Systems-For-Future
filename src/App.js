@@ -2,6 +2,7 @@ import './App.css';
 import Header from './components/Header';
 import Content from './components/Content';
 import Commandments from './components/Commandments';
+import CallToAction from './components/CallToAction';
 import Footer from './components/Footer';
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
       <Header />
       <Content />
       <Commandments />
+      <CallToAction />
       <Footer />
     </div>
   );

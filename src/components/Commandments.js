@@ -22,11 +22,8 @@ function Commandments () {
                     <p>Wir geben Hoffnung, dass wir kollektiv eine schöne und überaus lebenswerte Zukunft für alle gestalten können</p>
                     <p>Komm, wir packen's zusammen an!</p>
                 </section>
-
-                <section className="hero--ger">
-                    <h2><span className="highlight-ger">Mitmachen</span></h2>
-                </section>
             </div>
+
             <div className="english">
             <section className="hero--eng">
                     <h2><span className="highlight-eng">Who are we?</span></h2>
@@ -44,10 +41,6 @@ function Commandments () {
                     <p>We believe in the power of creativity and conscious design</p>
                     <p>We give hope that collectively we can create a beautiful and extremely liveable future for all creatures<br /></p>
                     <p>Come on, let's do it together!</p>
-                </section>
-
-                <section className="hero--eng">
-                    <h2><span className="highlight-eng">Participate</span></h2>
                 </section>
             </div>
         </div>

@@ -11,7 +11,7 @@
     padding-right: 1em;
     box-sizing: border-box;
     float: right;
-    width: 50%;
+    max-width: 300px;
 }
 
 .english {
@@ -21,7 +21,7 @@
     padding-left: 1em;
     box-sizing: border-box;
     float: left;
-    width:50%;
+    max-width: 300px;
 }
 
 .hero--ger {
@@ -48,9 +48,9 @@
 
 .context {
     font-style: normal;
-    font-weight: 500;
+    font-weight: 600;
     font-size: 0.9em;
-    line-height: 1em;
+    line-height: 1.3em;
     color: #161F75;
 }
 
